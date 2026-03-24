@@ -1,0 +1,3 @@
+func solution() {{
+    // surrounded-regions
+}}
